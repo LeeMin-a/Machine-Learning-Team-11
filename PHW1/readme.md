@@ -2,16 +2,9 @@
 
 ### Preprocessing
 
-* Scaling by 유소연
+* Scaling
   * Standard scaling
-  * Minmax scaling
-  * Robust scaling
-* Encoding by 유소연
-  * label
-  * frequency
-  * astype('category').cat.codes
-
-* Outlier & Missing Value by 유소연
+* Outlier & Missing Value
   * df.dropna()
 
  ### Model building
